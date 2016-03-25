@@ -1,0 +1,58 @@
+day00
+	00.rb
+		hello, world
+		ダブルクォートで文字列リテラル
+		シングルクォートで文字列リテラル
+
+	01.rb
+		ローカル変数
+
+	02.rb
+		式展開
+
+	03.rb
+		if, while
+		truthy, falsy
+
+	04.rb
+		標準入力、標準出力、標準エラー
+
+	05.rb
+		コメント
+		p
+
+day01
+	00.rb
+		メソッド
+
+	01.rb
+		クラス
+		継承
+		オーバライド
+
+	02.rb
+		Arrayリテラル
+		Hashリテラル
+		Symbol
+		HashリテラルライクあJSON
+
+	03.rb
+		Regexp
+		正規表現リテラル
+
+day02
+	00.rb
+		ARGF
+
+	01.rb
+		$_
+
+	02.rb
+		引数
+		後置if
+
+	03.rb
+		多重代入
+
+	04.rb
+		ブロック
