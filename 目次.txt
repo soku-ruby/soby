@@ -31,10 +31,10 @@ day01
 		オーバライド
 
 	02.rb
-        Arrayリテラル
-        Hashリテラル
+		Arrayリテラル
+		Hashリテラル
 		Symbol
-        JSONライクHashリテラル
+		JSONライクHashリテラル
 
 	03.rb
 		Regexp
@@ -52,7 +52,7 @@ day02
 		後置if
 
 	03.rb
-        多重代入
+		多重代入
 
 	04.rb
 		ブロック
