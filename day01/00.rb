@@ -1,16 +1,16 @@
-def hello(name)
-    puts "hello #{name}"
+def foo(name)
+    print "hello #{name}\n"
 end
 
-def func_without_arg
-    puts "This is func_without_arg"
+def bar(name)
+    "hello, #{name}\n"
 end
 
-def func_with_return
-    "return value"
+def baz
+    "hello, world\n"
 end
 
-hello("Alice")
-hello "Bob"
-func_without_arg
-puts func_with_return
+foo('Alice')
+foo 'Bob'
+puts bar('Charlie')
+puts baz
